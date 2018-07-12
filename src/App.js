@@ -3,7 +3,6 @@ import logo from './logo.svg';
 import './App.css';
 
 import ThreeButtons from './ThreeButtons';
-import carsData from './carsData.json';
 
 class App extends Component {
   render() {
