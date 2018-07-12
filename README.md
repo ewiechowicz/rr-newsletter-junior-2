@@ -1,4 +1,4 @@
-## React Rangers Newsletter Junior #1
+## React Rangers Newsletter Junior #2
 
 *This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app). See
 [the official guide](GUIDE.md) to learn more about this tool.*
