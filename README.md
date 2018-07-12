@@ -17,9 +17,11 @@ Make sure you run `npm install` first to install the dependencies.
 ### The task
 
 Implement a component containing `ThreeButtons` in [src/ThreeButtons.js](src/ThreeButtons.js). Every button should have its own individual numeric value in their label (aka the button's number). Clicking a button changes its number like so:
-Button #1 → increases its number by 3
-Button #2 → reduces its number by 7
-Button #3 → changes its number to current sum of button #1 and button #2
+
+* Button #1 → increases its number by 3
+* Button #2 → reduces its number by 7
+* Button #3 → changes its number to current sum of button #1 and button #2
+
 The initial value of each button should be 0.
 
 Submission deadline for code review: July 24th, 2018.
